@@ -1,16 +1,16 @@
-# 💸 INR Currency Converter App 🇮🇳🌍
+# 💸 INR Currency Converter 🇮🇳🌍
 
-A smart and intuitive desktop app to convert currencies to and from *Indian Rupees (INR)* with support for *100+ global currencies*, built using Python and Tkinter.You can also the  View historical 7-day trends and enjoy a clean, interactive user experience.This project is fully based on the userinput.
+A desktop app to convert currencies to and from *Indian Rupees (INR)* with support for *100+ global currencies*, built using Python and Tkinter.You can also the  View historical 7-day trends and enjoy a clean, interactive user experience.This project is fully based on the userinput.
 
 ---
 
 ## 🔧 Features Used
 
 - 🔄 *Convert both ways*: Foreign currency ⬌ INR  
-- 📆 *Pick a date* and simulate historical exchange rates  
-- 📊 *Visualize trends*: 7-day exchange rate graph using matplotlib  
-- 🌐 *100+ currencies* with country names and flags  
-- 🧼 *Clear button* to reset everything instantly  
+- 📆 *Pick a date* and you can see the historical exchanges in currency 
+- 📊 *Visualize trends*: You can also see the 7-day exchange rate graph using matplotlib  
+- 🌐 *100+ currencies* with country names 
+- 🧼 *Clear button* After used it you can reset everything instantly  
 
 ---
 
@@ -25,19 +25,7 @@ A smart and intuitive desktop app to convert currencies to and from *Indian Rupe
 
 ---
 
-## 📦 How to Use
-
-```bash
-# Clone the repository
+# Visite this web app here:
 git clone https://github.com/Amitanant01/inr-currency-converter.git
-
-# Navigate into the folder
-cd inr-currency-converter
-
-# Install required dependencies
-pip install tkcalendar matplotlib
-
-# Run the application
-python main.py
 
 ##  🙋‍♂️Author: Amit kumar
