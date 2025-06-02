@@ -32,3 +32,5 @@ git clone https://github.com/Amitanant01/inr-currency-converter.git
 
 
 <img src="https://github.com/AmitAnant01/Python_GUI_Currency_Convertor/blob/main/scr1.png" width="100%" />
+
+<img src="https://github.com/AmitAnant01/Python_GUI_Currency_Convertor/blob/main/scr1.png" width="100%" />
