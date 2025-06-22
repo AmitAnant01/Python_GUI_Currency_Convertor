@@ -6,7 +6,7 @@ This is a desktop app to convert currencies to and from Indian Rupees (INR), you
 
 ## 🔧 Features Used
 
-- 🔄 Convert both ways: Foreign currency ⬌ INR  
+- 🔄 Convert both ways: Foreign currency into INR  
 - 📆 Pick a date and change: you can see the historical exchanges in currency by changing the particular date
 - 📊 Visualize trends: You can also see the 7-day exchange rate graph using matplotlib  
 - 🌐 100+ currencies with country names 
